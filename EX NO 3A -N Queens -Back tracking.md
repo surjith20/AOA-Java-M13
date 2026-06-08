@@ -42,7 +42,6 @@ If there is no solution to the problem  print  "Solution does not exist"
 ## Program:
 ```java
 /*
-Program to implement Reverse a String
 Developed by: SURJITH D
 Register Number:  212223043006
 */
