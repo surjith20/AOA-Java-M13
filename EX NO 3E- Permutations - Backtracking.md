@@ -32,8 +32,8 @@ For example:
 ## Program:
 ```java
 /*
-Developed by: ILAIYADEEPAN K
-Register Number: 212223230080
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 import java.util.*;
 
