@@ -42,8 +42,9 @@ If there is no solution to the problem  print  "Solution does not exist"
 ## Program:
 ```java
 /*
-Developed by: ILAIYADEEPAN K
-Register Number: 212223230080
+Program to implement Reverse a String
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 import java.util.Scanner;
 
